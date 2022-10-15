@@ -84,7 +84,4 @@ def lightoff():
     driver.get("https://Add here.000webhostapp.com/main.html")
     Add the webhost name elem1 = driver.find_element_by_id("S1on") 
     elem1.click() 
-    if __name__ == "__main__": 
-    wishMe() 
-    while True:
-   query = takeCommand().lower() if 'wikipedia' in query:
+    
