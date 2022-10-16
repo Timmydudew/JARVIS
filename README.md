@@ -12,6 +12,9 @@ It can actually talk run it on ur pc
 ## ```for use```
 
 ```
-install python
-install pyttsx3 
-install spee
+install pycharm from jetbrains
+pip install pyttsx3 
+pip install speech recognition 
+```
+
+## ```install that```
