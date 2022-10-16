@@ -1,3 +1,4 @@
+#i coded this myself pls do not steal code 
 import pyttsx3
 import speech_recognition as sr
 import webbrowser 
