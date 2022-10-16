@@ -4,6 +4,7 @@ import speech_recognition as sr
 import webbrowser 
 import datetime
 import wikipedia
+from time import sleep
 
 def takeCommand():
     r = sr.Recognizer()
@@ -35,4 +36,23 @@ def Take_query():
     if "hello" in query:
        speak("hello sir I am JARVIS an Ai programmed by Timmy")
     elif "who are you" in query:
-         speak("I am an Jarvis sir")
+         speak("I am Jarvis sir")
+    elif "who am i" in query:
+        speak("you are my wonderful owner")
+    elif "YouTube" in query:
+        webbrowser.open("https://youtube.com/")
+    elif "google" in query:
+        webbrowser.open("https://google.com/")
+    elif "github" in query:
+        webbrowser.open("https://github.com/")
+    elif "time" in query:
+         date = datetime.datetime.now()
+         speak("the time is" date)
+    elif "sleep" in query:
+         speak("sleeping for 10seconds")
+         time.sleep(10)
+    elif "order a pizza" in query:
+         speak("opening dominos")
+
+
+         
