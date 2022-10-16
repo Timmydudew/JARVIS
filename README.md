@@ -1,6 +1,7 @@
 # JARVIS
 It can actually talk run it on ur pc
-<img src="
+<br>
+<img src="https://www.pinterest.com/pin/352195633371405078/">
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/2348050261876"><img src="https://img.shields.io/badge/Contact Timmy-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
